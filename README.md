@@ -29,4 +29,4 @@ As I wrote, I've worked with 3 famous coins: BTC, ETH and BNB. The background fo
 
 ![Showcase](https://user-images.githubusercontent.com/96992651/150617960-323f43be-b28d-4364-aedf-be0aa8ec7836.png)
 
-## That's all, folks. Do art for living. My name is Giorgio, and all the copyrights are reserved.
+### That's all, folks. Do art for living. My name is Giorgio, and all the copyrights are reserved.
